@@ -1,2 +1,0 @@
-# francky-fuzz
-Oh boy
